@@ -1,4 +1,4 @@
-# c
+# C
 STRUCTURES WITH MATHS IN C. 
 #include<stdio.h>
 #include<math.h>
